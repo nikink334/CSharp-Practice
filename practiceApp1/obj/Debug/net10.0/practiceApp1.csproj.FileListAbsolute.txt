@@ -1,0 +1,14 @@
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\bin\Debug\net10.0\practiceApp1.exe
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\bin\Debug\net10.0\practiceApp1.deps.json
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\bin\Debug\net10.0\practiceApp1.runtimeconfig.json
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\bin\Debug\net10.0\practiceApp1.dll
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\bin\Debug\net10.0\practiceApp1.pdb
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.AssemblyInfoInputs.cache
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.AssemblyInfo.cs
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.csproj.CoreCompileInputs.cache
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.dll
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\refint\practiceApp1.dll
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.pdb
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\practiceApp1.genruntimeconfig.cache
+C:\Users\rush9\OneDrive\Desktop\Csharp\practiceApp1\obj\Debug\net10.0\ref\practiceApp1.dll

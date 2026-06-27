@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|c:\\users\\rush9\\onedrive\\desktop\\csharp\\functionalprogramming2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|c:\\users\\rush9\\onedrive\\desktop\\csharp\\functionalprogramming2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|c:\\users\\rush9\\onedrive\\desktop\\csharp\\functionalprogramming2\\simpleintrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|solutionrelative:simpleintrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|c:\\users\\rush9\\onedrive\\desktop\\csharp\\functionalprogramming2\\airthmeticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746D75A5-1684-4B0A-8483-13833509C0CC}|functionalProgramming2.csproj|solutionrelative:airthmeticoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\rectangle.cs",
+              "RelativeDocumentMoniker": "rectangle.cs",
+              "ToolTip": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\rectangle.cs",
+              "RelativeToolTip": "rectangle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:31:48.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "simpleIntrest.cs",
+              "DocumentMoniker": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\simpleIntrest.cs",
+              "RelativeDocumentMoniker": "simpleIntrest.cs",
+              "ToolTip": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\simpleIntrest.cs",
+              "RelativeToolTip": "simpleIntrest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T10:51:58.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "airthmeticOperation.cs",
+              "DocumentMoniker": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\airthmeticOperation.cs",
+              "RelativeDocumentMoniker": "airthmeticOperation.cs",
+              "ToolTip": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\airthmeticOperation.cs",
+              "RelativeToolTip": "airthmeticOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T10:47:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rush9\\OneDrive\\Desktop\\Csharp\\functionalProgramming2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T08:57:29.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

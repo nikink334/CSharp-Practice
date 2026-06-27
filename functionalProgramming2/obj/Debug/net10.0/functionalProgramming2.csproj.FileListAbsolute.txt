@@ -1,0 +1,14 @@
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\bin\Debug\net10.0\functionalProgramming2.exe
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\bin\Debug\net10.0\functionalProgramming2.deps.json
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\bin\Debug\net10.0\functionalProgramming2.runtimeconfig.json
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\bin\Debug\net10.0\functionalProgramming2.dll
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\bin\Debug\net10.0\functionalProgramming2.pdb
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.AssemblyInfoInputs.cache
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.AssemblyInfo.cs
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.csproj.CoreCompileInputs.cache
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.dll
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\refint\functionalProgramming2.dll
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.pdb
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\functionalProgramming2.genruntimeconfig.cache
+C:\Users\rush9\OneDrive\Desktop\Csharp\functionalProgramming2\obj\Debug\net10.0\ref\functionalProgramming2.dll
